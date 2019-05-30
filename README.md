@@ -158,29 +158,29 @@
 
 - 参考code文件夹
   ```
-code
-├─AbstractFactory
-├─Adapter
-├─Bridge
-├─Builder
-├─ChainOfResponsibility
-├─Composite
-├─Decorator
-├─Facade
-├─FactoryMethod
-├─Flyweight
-├─Mediator
-├─Memento
-├─Observer
-├─Prototype
-├─Proxy
-├─SimpleFactory
-├─Singleton
-├─Strategy
-├─TemplateMethod
-└─Visitor
+  code
+  ├─AbstractFactory
+  ├─Adapter
+  ├─Bridge
+  ├─Builder
+  ├─ChainOfResponsibility
+  ├─Composite
+  ├─Decorator
+  ├─Facade
+  ├─FactoryMethod
+  ├─Flyweight
+  ├─Mediator
+  ├─Memento
+  ├─Observer
+  ├─Prototype
+  ├─Proxy
+  ├─SimpleFactory
+  ├─Singleton
+  ├─Strategy
+  ├─TemplateMethod
+  └─Visitor
   ```
-
+  
 - 注，代码来自GitHub 地址：[C++ Design Patterns](https://github.com/Waleon/DesignPatterns)
 
 
